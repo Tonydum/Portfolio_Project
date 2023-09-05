@@ -109,11 +109,12 @@ a:hover {
     font-size: 1.5rem;
     color: black;
     text-decoration: none;
-    transition: all 0.3 ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
-.menu-links.li {
-    list-style: none;
+.menu-links u1 {
+    list-style-type: none;
+    padding: 0;
 }
 
 .menu-links.open {
